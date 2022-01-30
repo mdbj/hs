@@ -1,1 +1,1 @@
-console.log(Math.exp(1.1723))
+console.log(Math.exp(2.2598))
